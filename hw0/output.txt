@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: Slav
+   first: Aaron
+   last: McKinstry
+email: am7057@nyu.edu
+leaderboard: amck
