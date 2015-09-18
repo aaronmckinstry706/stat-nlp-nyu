@@ -1523,7 +1523,6 @@ Example:	Reims	guess=person	gold=	confidence=0.2613361719559226
 Example:	Remseck	guess=place	gold=	confidence=0.3527743994335275
 Example:	Rennes-le-Château	guess=place	gold=	confidence=0.8630960119665719
 Example:	Reston	guess=place	gold=	confidence=0.5128410135752818
-
 Example:	Reutlingen	guess=place	gold=	confidence=0.8007629853141511
 Example:	Revesby	guess=place	gold=	confidence=0.4641259343710772
 Example:	Reynoldston	guess=place	gold=	confidence=0.8461283894092197
@@ -2546,6 +2545,7 @@ Example:	Battle Mountain Gold Co.	guess=company	gold=	confidence=0.4925009943376
 Example:	Battle Mtn Gold Co	guess=company	gold=	confidence=0.4660328178410608
 Example:	Bay View Capital I	guess=company	gold=	confidence=0.5644056019857678
 Example:	Beckman Coulter Inc	guess=company	gold=	confidence=0.9244662077250235
+
 Example:	Belz Richard	guess=person	gold=	confidence=0.6587628802563982
 Example:	Berkshire Hathaway Inc	guess=person	gold=	confidence=0.7822567499593023
 Example:	Best Buy Co.	guess=company	gold=	confidence=0.5377364983191972
