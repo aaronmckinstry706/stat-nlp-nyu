@@ -450,7 +450,6 @@ Example: Orajel Maximum Strength guess=drug gold= confidence=0.8805489675354004
 Example: Oralone guess=drug gold= confidence=0.94371140741671
 Example: Orange Flavor Metamucil Smooth Sugar-Free guess=drug gold= confidence=0.995066326844084
 Example: Orbenin guess=drug gold= confidence=0.468385519167899
-
 Example: Oreticyl guess=drug gold= confidence=0.8610429061532109
 Example: Orfro guess=drug gold= confidence=0.3529360093491115
 Example: Ornade Expectorant 95 guess=drug gold= confidence=0.9245351116364656
@@ -1174,7 +1173,6 @@ Example: Tobey Maguire guess=person gold= confidence=0.5047495888171235
 Example: Tojo Hideki guess=movie gold= confidence=0.7337722878895437
 Example: Tom Hanks guess=person gold= confidence=0.6038057523714095
 Example: Tommaso Boggio guess=person gold= confidence=0.8003691846796976
-
 Example: Tristan & Isolde guess=drug gold= confidence=0.9271130645501371
 Example: Tutankhamen guess=place gold= confidence=0.8220982832973069
 Example: Ulysses Simpson Grant guess=person gold= confidence=0.7871763421355076
